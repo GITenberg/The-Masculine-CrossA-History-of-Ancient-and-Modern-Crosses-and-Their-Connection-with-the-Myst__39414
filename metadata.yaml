@@ -1,0 +1,32 @@
+_repo: The-Masculine-CrossA-History-of-Ancient-and-Modern-Crosses-and-Their-Connection-with-the-Myst__39414
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39414-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2012-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Phallicism'
+- !lcc 'BL'
+- !lcsh 'Crosses'
+title: 'The Masculine Cross
+
+  A History of Ancient and Modern Crosses and Their Connection with the Mysteries
+  of Sex Worship; Also an Account of the Kindred Phases of Phallic Faiths and Practices'
+url: http://www.gutenberg.org/ebooks/39414
